@@ -1,0 +1,116 @@
+.topmenu{
+		border:1px solid black;
+		border-color:gray;
+		height:50px;
+		padding:5px;
+		background:#ddd;
+		}
+
+
+.container{
+		
+		height:50px;
+		width:1170px;
+		margin:auto;
+		}
+		
+.phone{
+		
+		height:50px;
+		width:220px;
+		text-align:left;
+		
+		float:left;
+		}
+.phonelogo{
+		
+		height:50px;
+		width:50px;
+		text-align:center;
+		float:left;
+		
+}		
+.phonelogo i{font-size:20px;text-align:center;}
+.email{
+		
+		height:50px;
+		width:744px;
+		text-align:left;
+		float:left;
+		
+		}
+.emaillogo{
+		
+		height:50px;
+		width:50px;
+		text-align:center;
+		float:left;
+		}
+.emaillogo i{font-size:20px;text-align:center;}		
+.socialicon{
+		width:200px;
+		height:50px;
+		
+		float:left;	
+}
+.iconawesome i{
+	
+	font-size:25px;
+	padding:10px 20px;
+}
+.mainmanubar{
+	
+	border:1px solid black;
+	border-color:gray;
+	background:#1d7a585e;
+	height:70px;
+}
+.manubar{
+	border:1px solid black;
+	width:1170px;
+	height:70px;
+	margin:auto;
+		
+}
+.company{
+		border:1px solid black;
+		height:70px;
+		width:450px;
+		text-align:center;
+		font-family:;
+		float:left;
+}
+
+	
+
+.home{border:1px solid black;width:100px;height:70px; text-align:center; float:left;font-family:arial black; }
+
+.page{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.service{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.project{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.account{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.contact{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.searchbar{border:1px solid black;width:100px;height:70px;text-align:center; float:left;font-family:arial black;}
+
+.myphoto{
+	border:1px solid black;
+	padding:5px;
+	height:500px;
+	
+}
+.sagorjpg{
+	border:1px solid black;
+	width:400px;
+	height:500px;
+	
+}
+
+
+		
+		
+		
